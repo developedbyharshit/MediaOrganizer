@@ -1,9 +1,3 @@
-Here's a GitHub-ready description for your script:
-
----
-
-# Photo and Video Organizer 🖼️🎥
-
 This script helps you organize your photo and video files into a neatly structured folder hierarchy based on their creation dates. It processes both images (using EXIF metadata) and videos (using file modification dates) and moves them into year/month-based folders, simplifying your media management.
 
 ## Features 🚀
@@ -35,15 +29,3 @@ Organize media files from a folder `C:/Users/Photos` into a destination folder `
 Enter the path of the folder to organize: C:/Users/Photos
 Enter the destination folder path: D:/OrganizedMedia
 ```
-
-## Improvements in Progress ✨
-- Adding support for additional file formats (`.tiff`, `.webp`, `.heic`, etc.).
-- Introducing a dry-run mode for previewing changes before organizing files.
-- Enhanced logging for error tracking and debugging.
-
-## Contributions 🤝
-Contributions are welcome! If you have ideas to improve this script, feel free to submit a pull request or open an issue.
-
----
-
-Let me know if you'd like to tweak anything!
