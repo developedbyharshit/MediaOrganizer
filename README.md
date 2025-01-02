@@ -19,7 +19,7 @@ This script helps you organize your photo and video files into a neatly structur
    ```
 2. Run the script:
    ```bash
-   python organize_photos_and_videos.py
+   python main.py
    ```
 3. Provide the source folder (where your files are located) and the destination folder (where you want the organized files to go).
 
